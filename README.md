@@ -14,6 +14,7 @@ My LeetCode solutions
 | [0066-plus-one](https://github.com/neelanjanasubramaniam-alt/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/neelanjanasubramaniam-alt/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/neelanjanasubramaniam-alt/LeetCode/tree/master/0169-majority-element) |
+| [1929-concatenation-of-array](https://github.com/neelanjanasubramaniam-alt/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,8 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/neelanjanasubramaniam-alt/LeetCode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/neelanjanasubramaniam-alt/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
